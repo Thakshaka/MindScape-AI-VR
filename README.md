@@ -1,2 +1,2 @@
-# MindScape-AI-VR
+# MindScape AI VR
 "MindScape - Revolutionizing Mental Health Care"
