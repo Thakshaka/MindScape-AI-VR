@@ -4,7 +4,9 @@
 ## Problem:
 Millions of people worldwide are facing significant mental health challenges, and traditional therapeutic options often fall short in addressing their needs. Barriers such as stigma, limited accessibility, and cost prevent many individuals from seeking the mental health support they require. As a result, there is a pressing need for an innovative and accessible solution that caters to the diverse mental health concerns of users.
 
-<img src='images/1.jpeg' width='400' height='400' align='center'>
+<p align="center">
+  <img src='images/1.jpeg' width='400' height='400' align='center'>
+</p>
 
 ### Users:
 
