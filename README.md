@@ -4,6 +4,8 @@
 ## Problem:
 Millions of people worldwide are facing significant mental health challenges, and traditional therapeutic options often fall short in addressing their needs. Barriers such as stigma, limited accessibility, and cost prevent many individuals from seeking the mental health support they require. As a result, there is a pressing need for an innovative and accessible solution that caters to the diverse mental health concerns of users.
 
+<img src='images/1.jpeg' width='100'>
+
 ### Users:
 
 * Individuals with Anxiety Disorders: Users who experience anxiety disorders, including generalized anxiety, social anxiety, and panic disorders, often require personalized therapeutic interventions to alleviate their symptoms.
