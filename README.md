@@ -4,6 +4,12 @@
 ## Problem
 Millions of people worldwide are facing significant mental health challenges, and traditional therapeutic options often fall short in addressing their needs. Barriers such as stigma, limited accessibility, and cost prevent many individuals from seeking the mental health support they require. As a result, there is a pressing need for an innovative and accessible solution that caters to the diverse mental health concerns of users.
 
+References
+[1] https://shorturl.at/lwyQY
+[2] https://shorturl.at/josG6
+[3] https://shorturl.at/bsOST
+[4] https://shorturl.at/etyUV
+
 <p align="center">
   <img src='images/1.jpeg' width='400' height='400' align='center'>
 </p>
